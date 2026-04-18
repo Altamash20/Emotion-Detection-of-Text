@@ -1,4 +1,4 @@
-# Emotion-Detection-of-Text
+# Sentiment-Detection-of-Text
 Resource to get data for our project - https://www.kaggle.com/datasets/pashupatigupta/emotion-detection-from-text
 
 In colab:
